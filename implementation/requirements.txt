@@ -1,6 +1,0 @@
-# Innovative Hybrid Cryptographic File Protection and Integrity Verification
-# Dependencies
-
-cryptography>=42.0.0
-streamlit>=1.35.0
-pandas>=2.0.0
